@@ -1,0 +1,1 @@
+2020-06-09 14:49:01,836 INFO [root] [test_login.py(test_01_login:20)] - {'success': True, 'code': 10000, 'message': '操作成功！', 'data': 'd833c246-d6e9-4071-89d1-8502f28f2cbc'}
